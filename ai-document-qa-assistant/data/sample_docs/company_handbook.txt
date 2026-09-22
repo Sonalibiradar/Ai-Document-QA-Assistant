@@ -1,0 +1,26 @@
+Employee Handbook — Acme Payments Pvt Ltd
+
+Working Hours
+Standard working hours are 9:30 AM to 6:30 PM, Monday through Friday.
+Employees may request flexible hours by discussing with their reporting manager.
+
+Leave Policy
+Employees are entitled to 18 paid leaves per calendar year, in addition to
+10 public holidays. Leave requests must be submitted at least 3 working
+days in advance through the internal HR portal, except in emergencies.
+
+Reimbursement Policy
+Business-related travel and client-meeting expenses are reimbursable within
+30 days of submission, provided original receipts are attached. Internet
+and phone reimbursements for remote employees are capped at INR 1,500 per
+month.
+
+Code Review Guidelines
+All pull requests require at least one approval before merging to the main
+branch. Reviewers should check for test coverage, adherence to the team's
+style guide, and potential security issues before approving.
+
+Onboarding Process
+New employees receive laptop and account provisioning within their first
+two working days. A 30-60-90 day onboarding plan is shared by the manager
+during week one, along with a buddy assigned from the same team.

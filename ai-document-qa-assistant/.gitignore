@@ -1,0 +1,17 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Vector index (generated, not source)
+data/faiss_index/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
